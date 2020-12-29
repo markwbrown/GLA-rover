@@ -2,17 +2,17 @@
 
 Segmentation and analysis of hemispherical images to estimate leaf area index (LAI) and further parameters
 
-![figure](doc/TSsmall.jpg)
+![figure](TSsmall.jpg)
 
 These tools are designed to calculate Leaf Area Index (LAI) and further canopy parameters, such as transmission and gap fraction, for batches of hemispherical images.
 The first step is a segmentation of the image into plant/sky pixels. The segmentation method used here is a novel approach based on local contrast enhancement and allows also to process images that were taken in not ideal conditions. 
 
-![segmentation](doc/segmentation.png)
+![segmentation](segmentation.png)
 
 The image is then split into a number of concentrical circles and angular segment, and the transmission for each segment is calculated. 
 
 Different functions to calculate LAI were implemented, according to following publications:
-* Norman, J.M., Campbell, G.S., 1989. Canopy structure. In: Pearcy, R.W., Ehleringer, J.R., Mooney, H.A., Rundel, P.W. (Eds.), Plant Physiological Ecology: Field Methods and Instrumentation. Chapman and Hall, London, New York, pp. 301–325.
+* Norman, J.M., Campbell, G.S., 1989. Canopy structure. In: Pearcy, R.W., Ehleringer, J.R., Mooney, H.A., Rundel, P.W. (Eds.), Plant Physiological Ecology: Field Methods and Instrumentation. Chapman and Hall, London, New York, pp. 301â€“325.
 * Miller, J.B., 1967. A Formula for Average Foliage Density. _Australian Journal of Botany_, 15(1), pp. 141-&. 
 * Lang (1987) Simplified estimate of leaf area index from transmittance of the sun's beam. _Agricultural and Forest Meteorology, 41 (1987) 17~186 
 * LI-COR, 1992. LAI-2000 Plant Canopy Analyser. Instruction manual. LICOR, Lincoln, NE, USA. 

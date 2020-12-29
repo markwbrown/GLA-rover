@@ -1,0 +1,8 @@
+./tests/Test1.JPG
+./tests/Test2.JPG
+./tests/Test3.JPG
+./tests/Test4.JPG
+./tests/Test5.JPG
+./tests/Test6.JPG
+./tests/Test7.JPG
+./tests/Test8.JPG

@@ -22,16 +22,19 @@ Kc = crop or land use factor (-)
 * Make the brains of the vehicle's navigation based on ardupilot. A mission of waypoints could be loaded to the rover which would drive the waypoint mission and a raspberry pi would capture pictures, add exif data to GPS tag them at the spot they were taken/possibly calculate gap light %. The pi could either capture pictures at a timed interval or use a rotary encoder against one of the vehicle's wheels to calculate distance traveled. 
 * Use ROS (Robot Operating System - a collection of packages put out by the [Open Robotics](https://www.openrobotics.org/) group) to power a vehicle and take the photos. ROS would allow autonomous navigation around objects.
 * Roll-your-own stack. OpenCV for image detection/object recognition/navigation. Snap photos, GPS tag, etc.
-* Some other variant, possibly with more than one pi connected via SPI/I2C
+* Some other variant, possibly with more than one pi connected via SPI/I2C. 
 
 ***
 
 ## Parts on Hand
 
 * Raspberry Pi 4 with CZH-Labs shield, DIN rail.
-* An old 7.2v RC Car. Not sure if it works. 
+* An old 7.2v RC Car. Not sure if it works. <- "Rock Shredder" from Radio Shack. 4w drive. Not sure gear ratio. Has basic steering wheel/trigger style remote. 
+* FrSky Taranis Q X7 remote. 
 * USB Hemispherical camera
 * USB GPS unit
 * Some ABEC-5 bearings
+* Some old drone LiPo batteries. 3s and 4s. 
+* Neopixel round ring - individually addressable LEDs. 
 * An old prusa i3 3d printer I built back in 2014 but has been disassembled since I moved over 3 years ago. I could probably get it working again, but it is FDM and was never that great anyhow.  
-* Some designs I had once 3d printed for a self-leveling gimbal (think a ship's compass) so the hemispherical camera points straight up.
+* Some designs I had mocked up and 3d printed for a self-leveling gimbal (think like a ship's compass) so the hemispherical camera points straight up. Needs some refinement so that a Neopixel can surround the camera. The lights on the neopixel are individually addressable, so this could be used to determine which direction is North on the image. Needed because Zenith is used in the calculation

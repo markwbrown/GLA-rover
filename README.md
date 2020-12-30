@@ -29,6 +29,7 @@ Kc = crop or land use factor (-)
 ## Parts on Hand
 
 * Raspberry Pi 4 with CZH-Labs shield, DIN rail.
+* 
 * An old 7.2v RC Car. Not sure if it works. <- "Rock Shredder" from Radio Shack. 4w drive. Not sure gear ratio. Has basic steering wheel/trigger style remote. 
 * FrSky Taranis Q X7 remote. 
 * USB Hemispherical camera

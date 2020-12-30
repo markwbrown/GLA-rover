@@ -41,3 +41,6 @@ Kc = crop or land use factor (-)
 * Neopixel round ring - individually addressable LEDs. 
 * An old prusa i3 3d printer I built back in 2014 but has been disassembled since I moved over 3 years ago. I could probably get it working again, but it is FDM and was never that great anyhow.  
 * Some designs I had mocked up and 3d printed for a self-leveling gimbal (think like a ship's compass) so the hemispherical camera points straight up.
+* Transistors, resistors, capacitors
+* Some old ESP8266 Lua chips as well as some newer NodeMCU units
+* 

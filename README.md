@@ -35,6 +35,7 @@ Kc = crop or land use factor (-)
 * USB GPS unit
 * Some ABEC-5 bearings
 * Some old drone LiPo batteries. 3s and 4s. 
+* Various parts - Lidar lite, sonar range detectors, maybe a working usb webcam.
 * Neopixel round ring - individually addressable LEDs. 
 * An old prusa i3 3d printer I built back in 2014 but has been disassembled since I moved over 3 years ago. I could probably get it working again, but it is FDM and was never that great anyhow.  
-* Some designs I had mocked up and 3d printed for a self-leveling gimbal (think like a ship's compass) so the hemispherical camera points straight up. Needs some refinement so that a Neopixel can surround the camera. The lights on the neopixel are individually addressable, so this could be used to determine which direction is North on the image. Needed because Zenith is used in the calculation
+* Some designs I had mocked up and 3d printed for a self-leveling gimbal (think like a ship's compass) so the hemispherical camera points straight up.

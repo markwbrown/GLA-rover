@@ -5,7 +5,7 @@ I've been wanting to start a "smart car" project that drives and takes gps-tagge
 ## The Problem
 Estimating the leaf area of a canopy holds great benefit in calculating how much water to give plants and when. Typical procedure is to mark a rectangle on the ground and estimate how much area within that rectangle is covered by shadow at solar noon. This is expressed as a % and used as the crop factor (Kc) in (ETc) calculations. An improved method is to take a hemispherical photo at ground level just before dawn and run it through [GLA](https://www.caryinstitute.org/science/our-scientists/dr-charles-d-canham/gap-light-analyzer-gla) (gap light analyzer). Both methods are fairly limiting in how many measurements can be taken during a day. GLA is a clunky executable built for Windows in 1999. 
 
-### The Equation: 
+### The Equation where LAI is useful: 
 
 #### ETc(t) = Kc x ETo(t)
 with: t = time step (days)
@@ -29,8 +29,9 @@ Kc = crop or land use factor (-)
 ## Parts on Hand
 
 * Raspberry Pi 4 with CZH-Labs shield, DIN rail.
-* 
-* An old 7.2v RC Car. Not sure if it works. <- "Rock Shredder" from Radio Shack. 4w drive. Not sure gear ratio. Has basic steering wheel/trigger style remote. 
+* Ardupilot 2.4.7
+* APM 2.6
+* An old 7.2v RC Car. It works! <- "Rock Shredder" from Radio Shack. 4w drive. Not sure gear ratio. Has basic steering wheel/trigger style remote. 
 * FrSky Taranis Q X7 remote. 
 * USB Hemispherical camera
 * USB GPS unit

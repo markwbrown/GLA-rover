@@ -33,14 +33,14 @@ Kc = crop or land use factor (-)
 * APM 2.6
 * An old 7.2v RC Car. It works! <- "Rock Shredder" from Radio Shack. 4w drive. Not sure gear ratio. Has basic steering wheel/trigger style remote. 
 * FrSky Taranis Q X7 remote. 
-* USB Hemispherical camera
-* USB GPS unit
+* USB Hemispherical camera (ELP-USBFHD01M-180)
+* USB GPS unit (G-Mouse)
 * Some ABEC-5 bearings
 * Some old drone LiPo batteries. 3s and 4s. 
 * Various parts - Lidar lite, sonar range detectors, maybe a working usb webcam.
 * Neopixel round ring - individually addressable LEDs. 
 * An old prusa i3 3d printer I built back in 2014 but has been disassembled since I moved over 3 years ago. I could probably get it working again, but it is FDM and was never that great anyhow.  
 * Some designs I had mocked up and 3d printed for a self-leveling gimbal (think like a ship's compass) so the hemispherical camera points straight up.
-* Transistors, resistors, capacitors
+* Transistors, resistors, capacitors - I basically have a mini radio shack here. 
 * Some old ESP8266 Lua chips as well as some newer NodeMCU units
-* 
+* Next door neighbors have an orchard that should be a good spot to run the rover through.

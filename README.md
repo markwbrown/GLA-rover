@@ -58,5 +58,6 @@ My neighbors have an orchard, so it'll just take me walking down the driveway to
 * Next door neighbors have an orchard that should be a good spot to run the rover through.
 
 ## Parts on the way
-* (12) 30" arrows. The arrow OD matches the ID of Abec-5 bearings. 
+* (12) 30" arrows. The arrow OD matches the ID of Abec-5 bearings. The ID of the arrows is a little over 6mm, enough room to fit the power, ground and data wires needed for the neopxel and the usb hemispherical camera. Should make for a nice axis/via in the self-leveling gimbal
+* FrSky X8R 8-Channel 2.4ghz ACCST&RSSI&SBus receiver (Smart port, full duplex, can also be paralleled to become a 16-Channel receiver) 
 

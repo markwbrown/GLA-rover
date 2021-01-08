@@ -57,3 +57,6 @@ My neighbors have an orchard, so it'll just take me walking down the driveway to
 * Some old ESP8266 Lua chips as well as some newer NodeMCU units
 * Next door neighbors have an orchard that should be a good spot to run the rover through.
 
+## Parts on the way
+* (12) 30" arrows. The arrow OD matches the ID of Abec-5 bearings. 
+

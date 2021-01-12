@@ -44,7 +44,8 @@ My neighbors have an orchard, so it'll just take me walking down the driveway to
 * Ardupilot 2.4.7
 * APM 2.6
 * An old 7.2v RC Car. It works! <- "Rock Shredder" from Radio Shack. 4w drive. Not sure gear ratio. Has basic steering wheel/trigger style remote. 
-* FrSky Taranis Q X7 remote. 
+* FrSky Taranis Q X7 remote.
+* FrSky X8R 8-Channel 2.4ghz ACCST&RSSI&SBus receiver (Smart port, full duplex, can also be paralleled to become a 16-Channel receiver)
 * USB Hemispherical camera (ELP-USBFHD01M-180)
 * USB GPS unit (G-Mouse)
 * Some ABEC-5 bearings
@@ -58,7 +59,6 @@ My neighbors have an orchard, so it'll just take me walking down the driveway to
 * Next door neighbors have an orchard that should be a good spot to run the rover through.
 
 ## Parts on the way
-* (12) 30" arrows. The arrow OD matches the ID of Abec-5 bearings. The ID of the arrows is a little over 6mm, enough room to fit the power, ground and data wires needed for the neopxel and the usb hemispherical camera. Should make for a nice axis/via in the self-leveling gimbal
-* FrSky X8R 8-Channel 2.4ghz ACCST&RSSI&SBus receiver (Smart port, full duplex, can also be paralleled to become a 16-Channel receiver)
-* Anycubic Photon Mono
+* (12) 30" arrows. The arrow OD matches the ID of Abec-5 bearings. The ID of the arrows is a little over 6mm, enough room to fit the power, ground and data wires needed for the neopxel and the usb hemispherical camera. Should make for a nice axis/via in the self-leveling gimbal. I believe I will be able to cut these to length and thread the ouside to fit a M8 nut.
+* Anycubic Photon Mono and 1kg resin. 
 

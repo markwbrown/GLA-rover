@@ -57,8 +57,10 @@ My neighbors have an orchard, so it'll just take me walking down the driveway to
 * Transistors, resistors, capacitors - I basically have a mini radio shack here. 
 * Some old ESP8266 Lua chips as well as some newer NodeMCU units
 * Next door neighbors have an orchard that should be a good spot to run the rover through.
-
-## Parts on the way
 * (12) 30" arrows. The arrow OD matches the ID of Abec-5 bearings. The ID of the arrows is a little over 6mm, enough room to fit the power, ground and data wires needed for the neopxel and the usb hemispherical camera. Should make for a nice axis/via in the self-leveling gimbal. I believe I will be able to cut these to length and thread the ouside to fit a M8 nut.
 * Anycubic Photon Mono and 1kg resin. 
+
+## Parts on the way
+
+* Anycubic Wash and cure station
 
